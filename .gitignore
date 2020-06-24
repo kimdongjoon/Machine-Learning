@@ -5,6 +5,10 @@ workspace.xml
 소상공인_201906/
 googlemapskey.txt
 test.db
+model/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
