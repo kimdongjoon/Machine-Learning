@@ -6,7 +6,7 @@ workspace.xml
 googlemapskey.txt
 test.db
 model/
-
+data/
 
 
 # Byte-compiled / optimized / DLL files
